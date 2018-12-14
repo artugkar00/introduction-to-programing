@@ -1,2 +1,2 @@
 # introduction-to-programing
-my programing exercising
+my programing exercises

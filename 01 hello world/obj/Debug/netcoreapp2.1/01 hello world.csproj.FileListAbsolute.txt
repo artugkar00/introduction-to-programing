@@ -1,0 +1,11 @@
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\bin\Debug\netcoreapp2.1\01 hello world.deps.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\bin\Debug\netcoreapp2.1\01 hello world.runtimeconfig.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\bin\Debug\netcoreapp2.1\01 hello world.runtimeconfig.dev.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\bin\Debug\netcoreapp2.1\01 hello world.dll
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\bin\Debug\netcoreapp2.1\01 hello world.pdb
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\obj\Debug\netcoreapp2.1\01 hello world.csprojAssemblyReference.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\obj\Debug\netcoreapp2.1\01 hello world.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\obj\Debug\netcoreapp2.1\01 hello world.AssemblyInfoInputs.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\obj\Debug\netcoreapp2.1\01 hello world.AssemblyInfo.cs
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\obj\Debug\netcoreapp2.1\01 hello world.dll
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\01 hello world\obj\Debug\netcoreapp2.1\01 hello world.pdb

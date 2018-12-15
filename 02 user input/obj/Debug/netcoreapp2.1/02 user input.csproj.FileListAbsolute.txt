@@ -1,0 +1,11 @@
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\bin\Debug\netcoreapp2.1\02 user input.deps.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\bin\Debug\netcoreapp2.1\02 user input.runtimeconfig.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\bin\Debug\netcoreapp2.1\02 user input.runtimeconfig.dev.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\bin\Debug\netcoreapp2.1\02 user input.dll
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\bin\Debug\netcoreapp2.1\02 user input.pdb
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\obj\Debug\netcoreapp2.1\02 user input.csprojAssemblyReference.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\obj\Debug\netcoreapp2.1\02 user input.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\obj\Debug\netcoreapp2.1\02 user input.AssemblyInfoInputs.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\obj\Debug\netcoreapp2.1\02 user input.AssemblyInfo.cs
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\obj\Debug\netcoreapp2.1\02 user input.dll
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\02 user input\obj\Debug\netcoreapp2.1\02 user input.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\bin\Debug\netcoreapp2.1\03 calculator.deps.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\bin\Debug\netcoreapp2.1\03 calculator.runtimeconfig.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\bin\Debug\netcoreapp2.1\03 calculator.runtimeconfig.dev.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\bin\Debug\netcoreapp2.1\03 calculator.dll
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\bin\Debug\netcoreapp2.1\03 calculator.pdb
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\obj\Debug\netcoreapp2.1\03 calculator.csprojAssemblyReference.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\obj\Debug\netcoreapp2.1\03 calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\obj\Debug\netcoreapp2.1\03 calculator.AssemblyInfoInputs.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\obj\Debug\netcoreapp2.1\03 calculator.AssemblyInfo.cs
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\obj\Debug\netcoreapp2.1\03 calculator.dll
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\03 calculator\obj\Debug\netcoreapp2.1\03 calculator.pdb

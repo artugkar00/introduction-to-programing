@@ -1,0 +1,11 @@
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\bin\Debug\netcoreapp2.1\04 smallest number.deps.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\bin\Debug\netcoreapp2.1\04 smallest number.runtimeconfig.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\bin\Debug\netcoreapp2.1\04 smallest number.runtimeconfig.dev.json
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\bin\Debug\netcoreapp2.1\04 smallest number.dll
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\bin\Debug\netcoreapp2.1\04 smallest number.pdb
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\obj\Debug\netcoreapp2.1\04 smallest number.csprojAssemblyReference.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\obj\Debug\netcoreapp2.1\04 smallest number.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\obj\Debug\netcoreapp2.1\04 smallest number.AssemblyInfoInputs.cache
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\obj\Debug\netcoreapp2.1\04 smallest number.AssemblyInfo.cs
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\obj\Debug\netcoreapp2.1\04 smallest number.dll
+C:\Users\Tugce\Desktop\kodkod\introduction-to-programing\04 smallest number\obj\Debug\netcoreapp2.1\04 smallest number.pdb
